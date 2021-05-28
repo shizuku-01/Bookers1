@@ -1,2 +1,3 @@
 [finish]webサイトを作ってみよう-1
 [Start]webサイトを作ってみよう-2
+[Finish]webサイトを作ってみよう-2
